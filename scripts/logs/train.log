@@ -1,0 +1,171 @@
+2025-11-02 05:29:42 - INFO - process timestep
+2025-11-02 05:29:42 - INFO - timestep = 2592000.0 days
+2025-11-02 05:29:42 - INFO - maxTime = 4243
+2025-11-02 05:30:13 - INFO - process timestep
+2025-11-02 05:30:13 - INFO - timestep = 2592000.0 days
+2025-11-02 05:30:13 - INFO - maxTime = 4243
+2025-11-02 05:31:37 - INFO - process timestep
+2025-11-02 05:31:37 - INFO - timestep = 2592000.0 days
+2025-11-02 05:31:37 - INFO - maxTime = 4243
+2025-11-02 05:35:56 - INFO - process timestep
+2025-11-02 05:35:56 - INFO - timestep = 2592000.0 days
+2025-11-02 05:35:56 - INFO - maxTime = 4243
+2025-11-02 05:41:26 - INFO - process timestep
+2025-11-02 05:41:26 - INFO - timestep = 2592000.0 days
+2025-11-02 05:41:26 - INFO - maxTime = 4243
+2025-11-02 05:49:49 - INFO - process timestep
+2025-11-02 05:49:49 - INFO - timestep = 2592000.0 days
+2025-11-02 05:49:49 - INFO - maxTime = 4243
+2025-11-02 05:49:50 - INFO - **************************************
+2025-11-02 05:49:50 - INFO - start to train
+2025-11-02 05:49:50 - INFO - **************************************
+2025-11-02 05:49:50 - INFO - start negative sample...
+2025-11-02 05:49:50 - INFO - finish sampling negative samples!
+2025-11-02 05:50:20 - INFO - process timestep
+2025-11-02 05:50:20 - INFO - timestep = 2592000.0 days
+2025-11-02 05:50:20 - INFO - maxTime = 4243
+2025-11-02 05:50:21 - INFO - **************************************
+2025-11-02 05:50:21 - INFO - start to train
+2025-11-02 05:50:21 - INFO - **************************************
+2025-11-02 05:50:21 - INFO - start negative sample...
+2025-11-02 05:50:21 - INFO - finish sampling negative samples!
+2025-11-02 05:52:38 - INFO - process timestep
+2025-11-02 05:52:38 - INFO - timestep = 2592000.0 days
+2025-11-02 05:52:38 - INFO - maxTime = 4243
+2025-11-02 05:52:39 - INFO - **************************************
+2025-11-02 05:52:39 - INFO - start to train
+2025-11-02 05:52:39 - INFO - **************************************
+2025-11-02 05:52:39 - INFO - start negative sample...
+2025-11-02 05:52:39 - INFO - finish sampling negative samples!
+2025-11-02 05:53:00 - INFO - Train: epoch 1/10, epoch_loss=82.1172,epoch_uu_dgi_loss=50.7344, epoch_ii_dgi_loss=6.4872
+2025-11-02 05:53:39 - INFO - process timestep
+2025-11-02 05:53:39 - INFO - timestep = 2592000.0 days
+2025-11-02 05:53:39 - INFO - maxTime = 4243
+2025-11-02 05:53:40 - INFO - **************************************
+2025-11-02 05:53:40 - INFO - start to train
+2025-11-02 05:53:40 - INFO - **************************************
+2025-11-02 05:53:40 - INFO - start negative sample...
+2025-11-02 05:53:40 - INFO - finish sampling negative samples!
+2025-11-02 05:54:02 - INFO - Train: epoch 1/10, epoch_loss=82.1172,epoch_uu_dgi_loss=50.7344, epoch_ii_dgi_loss=6.4872
+2025-11-02 05:54:03 - INFO - Val: epoch 1/10, hit_ration=0.2347,ndcg=0.1142
+2025-11-02 05:54:04 - INFO - Test: epoch 1/10, hit_ration=0.2210,ndcg=0.1055
+2025-11-02 05:54:05 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:54:05 - INFO - epoch 1/10, saving model!
+2025-11-02 05:54:05 - INFO - **************************************
+2025-11-02 05:54:05 - INFO - start negative sample...
+2025-11-02 05:54:05 - INFO - finish sampling negative samples!
+2025-11-02 05:54:26 - INFO - Train: epoch 2/10, epoch_loss=81.3851,epoch_uu_dgi_loss=47.7807, epoch_ii_dgi_loss=5.1908
+2025-11-02 05:54:27 - INFO - Val: epoch 2/10, hit_ration=0.2461,ndcg=0.1227
+2025-11-02 05:54:28 - INFO - Test: epoch 2/10, hit_ration=0.2301,ndcg=0.1141
+2025-11-02 05:54:29 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:54:29 - INFO - epoch 2/10, saving model!
+2025-11-02 05:54:29 - INFO - **************************************
+2025-11-02 05:54:29 - INFO - start negative sample...
+2025-11-02 05:54:29 - INFO - finish sampling negative samples!
+2025-11-02 05:54:50 - INFO - Train: epoch 3/10, epoch_loss=80.9804,epoch_uu_dgi_loss=46.5531, epoch_ii_dgi_loss=5.0652
+2025-11-02 05:54:51 - INFO - Val: epoch 3/10, hit_ration=0.2516,ndcg=0.1276
+2025-11-02 05:54:52 - INFO - Test: epoch 3/10, hit_ration=0.2316,ndcg=0.1172
+2025-11-02 05:54:53 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:54:53 - INFO - epoch 3/10, saving model!
+2025-11-02 05:54:53 - INFO - **************************************
+2025-11-02 05:54:53 - INFO - start negative sample...
+2025-11-02 05:54:53 - INFO - finish sampling negative samples!
+2025-11-02 05:55:14 - INFO - Train: epoch 4/10, epoch_loss=80.8915,epoch_uu_dgi_loss=46.1212, epoch_ii_dgi_loss=5.1465
+2025-11-02 05:55:15 - INFO - Val: epoch 4/10, hit_ration=0.2547,ndcg=0.1304
+2025-11-02 05:55:16 - INFO - Test: epoch 4/10, hit_ration=0.2316,ndcg=0.1189
+2025-11-02 05:55:17 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:55:17 - INFO - epoch 4/10, saving model!
+2025-11-02 05:55:17 - INFO - **************************************
+2025-11-02 05:55:17 - INFO - start negative sample...
+2025-11-02 05:55:17 - INFO - finish sampling negative samples!
+2025-11-02 05:55:39 - INFO - Train: epoch 5/10, epoch_loss=80.7672,epoch_uu_dgi_loss=45.9682, epoch_ii_dgi_loss=4.7709
+2025-11-02 05:55:40 - INFO - Val: epoch 5/10, hit_ration=0.2567,ndcg=0.1322
+2025-11-02 05:55:41 - INFO - Test: epoch 5/10, hit_ration=0.2341,ndcg=0.1207
+2025-11-02 05:55:51 - INFO - process timestep
+2025-11-02 05:55:51 - INFO - timestep = 2592000.0 days
+2025-11-02 05:55:51 - INFO - maxTime = 4243
+2025-11-02 05:55:52 - INFO - **************************************
+2025-11-02 05:55:52 - INFO - start to train
+2025-11-02 05:55:52 - INFO - **************************************
+2025-11-02 05:55:52 - INFO - start negative sample...
+2025-11-02 05:55:52 - INFO - finish sampling negative samples!
+2025-11-02 05:56:13 - INFO - Train: epoch 1/10, epoch_loss=80.4718,epoch_uu_dgi_loss=14.3679, epoch_ii_dgi_loss=4.1637
+2025-11-02 05:56:14 - INFO - Val: epoch 1/10, hit_ration=0.4754,ndcg=0.2719
+2025-11-02 05:56:15 - INFO - Test: epoch 1/10, hit_ration=0.4700,ndcg=0.2718
+2025-11-02 05:56:16 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:56:16 - INFO - epoch 1/10, saving model!
+2025-11-02 05:56:16 - INFO - **************************************
+2025-11-02 05:56:16 - INFO - start negative sample...
+2025-11-02 05:56:16 - INFO - finish sampling negative samples!
+2025-11-02 05:56:37 - INFO - Train: epoch 2/10, epoch_loss=58.1237,epoch_uu_dgi_loss=12.6405, epoch_ii_dgi_loss=3.0486
+2025-11-02 05:56:38 - INFO - Val: epoch 2/10, hit_ration=0.7216,ndcg=0.4734
+2025-11-02 05:56:40 - INFO - Test: epoch 2/10, hit_ration=0.7161,ndcg=0.4607
+2025-11-02 05:56:40 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:56:40 - INFO - epoch 2/10, saving model!
+2025-11-02 05:56:40 - INFO - **************************************
+2025-11-02 05:56:40 - INFO - start negative sample...
+2025-11-02 05:56:40 - INFO - finish sampling negative samples!
+2025-11-02 05:57:02 - INFO - Train: epoch 3/10, epoch_loss=49.5897,epoch_uu_dgi_loss=11.2487, epoch_ii_dgi_loss=1.4068
+2025-11-02 05:57:02 - INFO - Val: epoch 3/10, hit_ration=0.7910,ndcg=0.5316
+2025-11-02 05:57:04 - INFO - Test: epoch 3/10, hit_ration=0.7733,ndcg=0.5119
+2025-11-02 05:57:05 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:57:05 - INFO - epoch 3/10, saving model!
+2025-11-02 05:57:05 - INFO - **************************************
+2025-11-02 05:57:05 - INFO - start negative sample...
+2025-11-02 05:57:05 - INFO - finish sampling negative samples!
+2025-11-02 05:57:26 - INFO - Train: epoch 4/10, epoch_loss=47.0972,epoch_uu_dgi_loss=10.7643, epoch_ii_dgi_loss=0.9345
+2025-11-02 05:57:27 - INFO - Val: epoch 4/10, hit_ration=0.8248,ndcg=0.5503
+2025-11-02 05:57:28 - INFO - Test: epoch 4/10, hit_ration=0.8013,ndcg=0.5303
+2025-11-02 05:57:29 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:57:29 - INFO - epoch 4/10, saving model!
+2025-11-02 05:57:29 - INFO - **************************************
+2025-11-02 05:57:29 - INFO - start negative sample...
+2025-11-02 05:57:29 - INFO - finish sampling negative samples!
+2025-11-02 05:57:50 - INFO - Train: epoch 5/10, epoch_loss=46.3949,epoch_uu_dgi_loss=10.6519, epoch_ii_dgi_loss=0.7188
+2025-11-02 05:57:51 - INFO - Val: epoch 5/10, hit_ration=0.8319,ndcg=0.5567
+2025-11-02 05:57:53 - INFO - Test: epoch 5/10, hit_ration=0.8156,ndcg=0.5402
+2025-11-02 05:57:54 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:57:54 - INFO - epoch 5/10, saving model!
+2025-11-02 05:57:54 - INFO - **************************************
+2025-11-02 05:57:54 - INFO - start negative sample...
+2025-11-02 05:57:54 - INFO - finish sampling negative samples!
+2025-11-02 05:58:14 - INFO - Train: epoch 6/10, epoch_loss=45.6414,epoch_uu_dgi_loss=10.6062, epoch_ii_dgi_loss=0.6951
+2025-11-02 05:58:15 - INFO - Val: epoch 6/10, hit_ration=0.8373,ndcg=0.5624
+2025-11-02 05:58:16 - INFO - Test: epoch 6/10, hit_ration=0.8239,ndcg=0.5456
+2025-11-02 05:58:17 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:58:17 - INFO - epoch 6/10, saving model!
+2025-11-02 05:58:17 - INFO - **************************************
+2025-11-02 05:58:17 - INFO - start negative sample...
+2025-11-02 05:58:17 - INFO - finish sampling negative samples!
+2025-11-02 05:58:38 - INFO - Train: epoch 7/10, epoch_loss=45.5211,epoch_uu_dgi_loss=10.6049, epoch_ii_dgi_loss=0.6417
+2025-11-02 05:58:39 - INFO - Val: epoch 7/10, hit_ration=0.8408,ndcg=0.5636
+2025-11-02 05:58:41 - INFO - Test: epoch 7/10, hit_ration=0.8276,ndcg=0.5485
+2025-11-02 05:58:42 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:58:42 - INFO - epoch 7/10, saving model!
+2025-11-02 05:58:42 - INFO - **************************************
+2025-11-02 05:58:42 - INFO - start negative sample...
+2025-11-02 05:58:42 - INFO - finish sampling negative samples!
+2025-11-02 05:59:02 - INFO - Train: epoch 8/10, epoch_loss=45.5582,epoch_uu_dgi_loss=10.3971, epoch_ii_dgi_loss=0.6570
+2025-11-02 05:59:03 - INFO - Val: epoch 8/10, hit_ration=0.8422,ndcg=0.5649
+2025-11-02 05:59:05 - INFO - Test: epoch 8/10, hit_ration=0.8276,ndcg=0.5497
+2025-11-02 05:59:06 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:59:06 - INFO - epoch 8/10, saving model!
+2025-11-02 05:59:06 - INFO - **************************************
+2025-11-02 05:59:06 - INFO - start negative sample...
+2025-11-02 05:59:06 - INFO - finish sampling negative samples!
+2025-11-02 05:59:26 - INFO - Train: epoch 9/10, epoch_loss=45.4441,epoch_uu_dgi_loss=10.2700, epoch_ii_dgi_loss=0.6667
+2025-11-02 05:59:27 - INFO - Val: epoch 9/10, hit_ration=0.8439,ndcg=0.5664
+2025-11-02 05:59:29 - INFO - Test: epoch 9/10, hit_ration=0.8285,ndcg=0.5497
+2025-11-02 05:59:30 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:59:30 - INFO - epoch 9/10, saving model!
+2025-11-02 05:59:30 - INFO - **************************************
+2025-11-02 05:59:30 - INFO - start negative sample...
+2025-11-02 05:59:30 - INFO - finish sampling negative samples!
+2025-11-02 05:59:53 - INFO - Train: epoch 10/10, epoch_loss=45.3827,epoch_uu_dgi_loss=10.5930, epoch_ii_dgi_loss=0.7095
+2025-11-02 05:59:54 - INFO - Val: epoch 10/10, hit_ration=0.8436,ndcg=0.5665
+2025-11-02 05:59:55 - INFO - Test: epoch 10/10, hit_ration=0.8299,ndcg=0.5501
+2025-11-02 05:59:56 - INFO - best model saved in /root/autodl-tmp/data/model/best_model.pth
+2025-11-02 05:59:56 - INFO - epoch 10/10, saving model!
+2025-11-02 05:59:56 - INFO - Train Ending!
+2025-11-02 05:59:56 - INFO - **************************************
+2025-11-02 05:59:56 - INFO - best performence of model: hr=0.8299, ndcg=0.5501
